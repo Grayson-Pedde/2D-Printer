@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 <p>
-During my freshman year of college, I collaborated with upper-classmen and peers to design and build a
+During my freshman year of college, I collaborated with upper-classmen and peers to build a
 custom 2D printer capable of drawing on a vertical whiteboard surface. The system used four locking
 stepper motors to precisely control motion along the X and Y axes, allowing a dry-erase marker to be
 positioned.
