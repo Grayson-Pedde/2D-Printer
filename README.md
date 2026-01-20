@@ -42,5 +42,5 @@ experience in mechatronics and embedded systems design.
 
 <h2>Project Image</h2>
 <p align="center">
-<img src="2d_printer" width="80%" alt="2D Printer Project"/>
+<img src="2d_printer.PNG" width="80%" alt="2D Printer Project"/>
 </p>
